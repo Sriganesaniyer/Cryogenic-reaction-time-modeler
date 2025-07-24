@@ -1,0 +1,11 @@
+# Material InitialT FinalT AmbientT CoolingConst TimeStep Mass(kg) SpecificHeat(J/kg·K) Shape MultiStageTA
+Aluminum 300 100 77 0.050 5 0.5 900 plate 77,70,60
+Copper 350 120 77 0.070 5 0.5 385 cube 77,65
+StainlessSteel 310 150 77 0.030 5 0.5 500 sphere 77,68,58
+Titanium 330 120 77 0.025 5 0.5 520 plate 77,72
+Brass 340 110 77 0.045 5 0.5 380 cube 77,65,55
+Nickel 320 130 77 0.035 5 0.5 440 sphere 77
+Zinc 310 100 77 0.060 5 0.5 390 plate 77,70
+Lead 305 105 77 0.040 5 0.5 130 cube 77,60
+Iron 315 125 77 0.038 5 0.5 450 sphere 77,68
+Glass 300 110 77 0.020 5 0.5 840 plate 77,72,65
